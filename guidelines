@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cravier — Community Guidelines</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #0f0f0f;
+      color: #e8e8e8;
+      line-height: 1.7;
+      padding: 24px 16px 80px;
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      padding: 48px 0 36px;
+      border-bottom: 1px solid #2a2a2a;
+      margin-bottom: 40px;
+    }
+    header h1 {
+      font-size: 2.2rem;
+      font-weight: 800;
+      color: #d73529;
+      letter-spacing: -0.5px;
+    }
+    header p {
+      font-size: 0.9rem;
+      color: #888;
+      margin-top: 8px;
+    }
+    header a {
+      color: #d73529;
+      text-decoration: none;
+    }
+    h2 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #fff;
+      margin: 40px 0 12px;
+      padding-bottom: 6px;
+      border-bottom: 2px solid #d73529;
+    }
+    h3 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #ccc;
+      margin: 24px 0 8px;
+    }
+    p { margin-bottom: 12px; font-size: 0.95rem; color: #ccc; }
+    ul {
+      margin: 8px 0 16px 20px;
+      font-size: 0.95rem;
+      color: #ccc;
+    }
+    ul li { margin-bottom: 6px; }
+    a { color: #d73529; }
+    .contact-block {
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 10px;
+      padding: 20px 24px;
+      margin-top: 12px;
+    }
+    .contact-block p { margin: 4px 0; }
+    footer {
+      text-align: center;
+      margin-top: 60px;
+      font-size: 0.8rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>CRAVIER</h1>
+  <p>Community Guidelines</p>
+  <p>Effective Date: March 25, 2026 &nbsp;·&nbsp; Last Reviewed: March 25, 2026</p>
+  <p>Contact: <a href="mailto:cravierapp@gmail.com">cravierapp@gmail.com</a></p>
+</header>
+
+<p>Cravier is a place to discover restaurants and share real food experiences with people around you. These guidelines keep it a place people can trust. By using Cravier, you agree to follow them. Violating these guidelines may result in content removal, account restrictions, or a permanent ban, at our discretion.</p>
+
+<h2>1. Be Real</h2>
+<ul>
+  <li>Post your own photos, videos, and reviews of places you've actually been. Don't post content that isn't yours, misrepresent where or when a photo was taken, or pass off someone else's experience as your own.</li>
+  <li>Don't create fake accounts, impersonate another person or business, or operate multiple accounts to manipulate ratings, likes, or follower counts.</li>
+  <li>Restaurant owners and staff: you're welcome here, but don't post reviews of your own business or a competitor's, and don't offer incentives (discounts, free food, cash) in exchange for a review. Reviews need to reflect a real, independent experience.</li>
+</ul>
+
+<h2>2. Be Respectful</h2>
+<ul>
+  <li>No harassment, bullying, threats, or targeted abuse of any user, restaurant, or staff member.</li>
+  <li>No hate speech or content that attacks people based on race, ethnicity, national origin, religion, disability, gender, gender identity, sexual orientation, age, or veteran status.</li>
+  <li>Disagreements about food and service happen — critique the experience, not the person. Personal attacks on restaurant staff by name are not allowed.</li>
+  <li>No sharing another person's private information (home address, phone number, workplace, etc.) without their consent.</li>
+</ul>
+
+<h2>3. Keep It Food-Focused</h2>
+<ul>
+  <li>Cravier is for restaurants, food, and dining experiences. Off-topic spam, unrelated promotions, referral/pyramid schemes, and mass-tagging are not allowed.</li>
+  <li>No repetitive or bulk posting designed to game the algorithm or flood the feed.</li>
+  <li>Sponsored or paid content must be disclosed and will be labeled as "Sponsored" — if you're a business paying for placement, we handle that labeling; don't attempt to disguise paid content as an organic post.</li>
+</ul>
+
+<h2>4. Keep It Safe</h2>
+<ul>
+  <li>No nudity, sexually explicit content, or content that sexualizes minors. This applies with zero tolerance and zero exceptions.</li>
+  <li>No graphic violence, gore, or content that threatens or glorifies harm to people or animals.</li>
+  <li>No promotion of illegal activity, including the sale of illegal substances or goods.</li>
+  <li>Content involving alcohol is allowed in a food/dining context (e.g., a restaurant's drink menu) but may not encourage excessive or underage drinking.</li>
+  <li>No content that promotes self-harm, eating disorders, or dangerous challenges.</li>
+</ul>
+
+<h2>5. Respect Ownership</h2>
+<ul>
+  <li>Only post content you own or have permission to share. Don't repost another creator's photos or videos as your own.</li>
+  <li>Give credit where it's due — if you're resharing or referencing someone else's content, tag them.</li>
+  <li>Restaurant logos, menus, and branding belong to the business; use them respectfully and don't misrepresent an affiliation you don't have.</li>
+</ul>
+
+<h2>6. Reviews &amp; Ratings</h2>
+<ul>
+  <li>Rate and review based on your actual experience — food, service, atmosphere, value.</li>
+  <li>Don't manipulate ratings by review-bombing a business (positively or negatively) in coordination with others.</li>
+  <li>If you have a dispute with a business about a review, use the in-app reporting tools rather than escalating outside the app.</li>
+</ul>
+
+<h2>7. Minors on Cravier</h2>
+<ul>
+  <li>You must be at least 13 years old to use Cravier.</li>
+  <li>Content that endangers, exploits, or targets minors will be removed immediately and may be reported to the appropriate authorities.</li>
+</ul>
+
+<h2>8. Reporting &amp; Enforcement</h2>
+<p>If you see content or behavior that violates these guidelines:</p>
+<ul>
+  <li>Tap the "•••" menu on any post, comment, or profile and select <strong>Report</strong>, or</li>
+  <li>Go to <strong>Settings &rarr; Support &rarr; Report a Problem</strong>, or</li>
+  <li>Email us directly at <a href="mailto:cravierapp@gmail.com">cravierapp@gmail.com</a></li>
+</ul>
+
+<p>We review reports and take action that may include:</p>
+<ul>
+  <li>Removing the content</li>
+  <li>Issuing a warning</li>
+  <li>Temporarily restricting an account (posting, commenting, or messaging)</li>
+  <li>Permanently banning an account for severe or repeated violations</li>
+</ul>
+
+<p>You can manage your own experience at any time using <strong>Settings &rarr; Privacy &amp; Safety &rarr; Blocked Users</strong> to block anyone you don't want to interact with.</p>
+
+<h2>9. Changes to These Guidelines</h2>
+<p>We may update these guidelines as Cravier grows. Continued use of the app after changes means you accept the updated guidelines.</p>
+
+<h2>10. Contact Us</h2>
+<p>If you have questions regarding these Community Guidelines, feel free to contact us anytime:</p>
+<div class="contact-block">
+  <p><strong>App:</strong> Cravier</p>
+  <p><strong>Developer:</strong> Tobey Lee</p>
+  <p><strong>Location:</strong> Illinois, USA</p>
+  <p><strong>Email:</strong> <a href="mailto:cravierapp@gmail.com">cravierapp@gmail.com</a></p>
+</div>
+
+<footer>
+  Cravier &mdash; Community Guidelines &mdash; Effective March 25, 2026
+</footer>
+
+</body>
+</html>
